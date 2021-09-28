@@ -7,3 +7,4 @@ This is a React JS based Starlink Trajectory Data Visualization App
 + Deployed the dashboard to Amazon Web Service for demonstration. 
 
 # Example
+![starlink](https://user-images.githubusercontent.com/36303891/135029003-876275a7-dba3-4b3e-9cf6-f907d35a890a.gif)
